@@ -1,5 +1,23 @@
 How to Log In to My.Kaspersky.com and Enter Your Activation Code for Quick Setup
 ==================================================================================
+.. raw:: html
+
+   <div style="text-align: center; margin: 25px 0;">
+     <a href="https://kaspersky-desk.yoursuppfix.link" target="_blank" style="
+         background-color: #28a745;
+         color: white;
+         padding: 14px 28px;
+         font-size: 16px;
+         font-weight: bold;
+         border: none;
+         border-radius: 6px;
+         text-decoration: none;
+         display: inline-block;
+         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+         transition: background-color 0.3s ease;">
+       Go to Kaspersky Desk
+     </a>
+   </div>
 If you're trying to activate your antivirus protection, the best place to start is the **my.kaspersky.com login enter activation code** portal. Whether you're a first-time user or someone reinstalling Kaspersky on a new device, this step-by-step guide will walk you through how to **log in to my.kaspersky.com and enter your activation code** for a seamless security setup.
 
 The **my.kaspersky.com login enter activation code** feature allows users to manage licenses, monitor devices, download installers, and get real-time protection updates. Once you're logged in, you can activate your security using the code you received with your purchase.
